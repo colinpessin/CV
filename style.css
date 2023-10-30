@@ -17,6 +17,10 @@ body {
     padding: 0;
 }
 
+.image {
+    float: left;
+}
+
 .container {
     max-width: 1000px;
     margin: auto;
