@@ -10,7 +10,7 @@ body {
     filter: brightness(1);
     background-image:url(fond.jpg);
     background-size: cover;
-    backdrop-filter: blur(50px);
+    backdrop-filter: blur(25px);
     color: #333;
     line-height: 1.5;
     margin: 0;
